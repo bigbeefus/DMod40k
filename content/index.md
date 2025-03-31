@@ -1,4 +1,6 @@
-title: "Warhammer 40000: Dan's Mod"
+---
+title: "Warhammer 40000\: Dan's Mod"
+---
 
 *The following is designed to amend any edition of the Warhammer 40k rules.* 
 
