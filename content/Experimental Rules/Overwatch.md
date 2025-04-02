@@ -1,4 +1,4 @@
-# **“Overwatch”**
+# Overwatch
 
 Units that could fire Overwatch may only do so with weapons that are 18" range or shorter. Rapid Fire weapons may fire both snap shots.
 
