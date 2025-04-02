@@ -1,4 +1,4 @@
-# **The Turn**
+# The Turn
 
 The standard Warhammer 40k turn structure is replaced with the following:
 
@@ -7,13 +7,13 @@ The standard Warhammer 40k turn structure is replaced with the following:
 3. Assault Phase  
 4. Rally & End
 
-## **Start of Turn**
+## Start of Turn
 
 Resolve any triggers or effects that would occur during the start of a player or game turn. If an ability would trigger at the start of the movement phase, it triggers at the start of the turn instead.
 
 If using 7th edition, generate warp charges as if it were the start of the psychic phase.
 
-## **Orders**
+## Orders
 
 During the turn, a player may issue each a single order in sequence, until all units have acted or passed. An order must be fully resolved before another is issued.
 
@@ -25,25 +25,25 @@ Reaction orders may be carried out at any point during the game, and a reaction 
 
 Unless noted otherwise, a step of an order as it would normally occur during a gameplay phase (movement, shooting, etc.) must be fully completed before the next one resolves. Abilities that would trigger at the beginning or end of the movement or shooting phase trigger at that time of the Orders phase instead.
 
-### **Top Speed**
+### Top Speed
 
 The unit may move or disembark from a transport the normal distance, plus the distance for running or moving flat-out.
 
-### **Maneuver and Fire**
+### Maneuver and Fire
 
 The unit moves or disembarks up to its movement allowance and makes a shooting attack. This may be done in any order, but each action must be fully completed before starting the next. Units that fire before moving must fire as if 
 
-### **Open Fire**
+### Open Fire
 
 The unit fires once as it normally would during the shooting phase with no penalties taken from movement. If the unit is not Gone to Ground, it may shoot as though it had Split Fire.
 
-### **Close Assault**
+### Close Assault
 
 The Maneuver and Fires, then may follow the standard procedure for resolving a charge.
 
 If a unit could fire overwatch, ignore these rules. Units on Ambush Fire may carry out that order during the Charge Sub-phase instead.
 
-### **Request Support**
+### Request Support
 
 HQ units, or any character with Scout may attempt to request off-map support. The unit targets an enemy, or a point on the map as if it were a shooting attack.
 
@@ -53,15 +53,15 @@ If the communications test is passed, the support unit may perform an order as d
 
 Eligible units that are embarked on a transport may use this order if they could normally fire from that transport and that transport remains stationary for the turn.
 
-### **Tactical Coordination**
+### Tactical Coordination
 
 HQ Units only. The command unit can do nothing else this turn, but may nominate a friendly unit anywhere on the table that has Gone to Ground or routed to attempt to Rally or stand up. The unit must pass a leadership test.
 
-### **Ambush Fire (Reaction Order)**
+### Ambush Fire (Reaction Order)
 
 Mark the unit with any appropriate marker. The waiting ambush unit may now interrupt any enemy unit’s order to use their Open Fire order.
 
-### **Reserve Move (Reaction Order)**
+### Reserve Move (Reaction Order)
 
 A unit given the Reserve Move order does not move in its own turn but instead waits, and can then interrupt the enemy turn (but not an order) to take the Top Speed order
 
@@ -71,11 +71,11 @@ If the moved unit is out of range or line of sight, the firing unit may fire sna
 
 Note: In general, orders or abilities that allow for an interrupt resolve at any point during movement, or before or after a shooting attack or other action is resolved. 
 
-## **Assault Phase**
+## Assault Phase
 
 Resolve the Assault phase as the Warhammer 40k Fight Sub-phase. Units may ignore restrictions for charging out of reserves.
 
-## **Rally & End turn**
+## Rally & End turn
 
 Routing units may attempt to rally as normal, except for units that routed as the result of a combat resolution on the Assault Phase of this turn. 
 
