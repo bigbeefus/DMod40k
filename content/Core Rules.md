@@ -2,20 +2,20 @@
 
 ## **Barrage**
 
-Units firing indirectly using Barrage use the following procedure instead. Indirect Fire must be resolved using a Request Support order
+Units firing indirectly using Barrage use the following procedure
+instead. Indirect Fire must be resolved using a Request Support order
 
-Artillery units with a Barrage weapon may elect to be deployed off-map. Units deployed this way may only fire indirectly, and may not draw Line of Sight to any unit on the table. They do not count toward a player’s unit count.
+Artillery units with a Barrage weapon may elect to be deployed off-map,
+outside of the play area.
+Units deployed this way may only fire indirectly, and may not draw Line
+of Sight to any unit on the table.
 
-A player may purchase a Pre-registered Target Point for 15 points as an Additional Fire Support choice. An artillery battery may choose to fire on this point without requiring a Request Support order. Spotter rounds targeting this area deviate as normal. Pre-registered Target Points are noted after Fortifications are deployed, but before any units are set up.
+Barrage weapons fire as a Blast weapon with a -2 modifier to-hit.
+Barrage weapons that fire indirectly gain Pinning, and may be treated as having infinite range.
 
-**1\. Position Spotter Round**  
-Place a spotter round marker anywhere on the table within the spotter’s line of sight and within 48” of the spotter.
-
-**2\. Spotter Round Deviation**  
-The spotter round scatters 3D6”. If a direct hit is rolled on the scatter die, remove the highest die. This distance may be reduced by the spotter’s Ballistics Skill.
-
-**3\. Fire for Effect**  
-Resolve each attack from the battery with Pinning as the corresponding blast size, hitting the unit closest to the spotter round on 6+ instead of 4+. For cover, draw Line of Sight from the spotter round’s marker. Blast modifiers apply.
+A player may purchase a Pre-registered Target Point for 15 points as an
+Additional Fire Support choice. An artillery battery may choose to fire
+on this point without requiring a Request Support order. 
 
 ## **Deep Strike**
 
@@ -23,7 +23,7 @@ If a unit would be brought in using deep strike, instead place a deep strike mar
 
 If the marker or unit would land in a location that would result in a Mishap, roll on the table as normal. The Marker is not a unit, but follows all rules for unit placement as if it were.
 
-At the beginning of the player’s following turn, replace the marker with the first model in the unit as normal. The unit may receive orders as if it had been on the board for a full turn. The unit counts as having moved for the purposes of any abilities.
+At the beginning of the player’s following turn, replace the marker with the first model in the unit as normal. The unit may receive orders as if it had been on the board for a full turn, but may not charge if it performed a move action. The unit counts as having moved for the purposes of any abilities.
 
 ### **Mishap**
 
@@ -35,8 +35,6 @@ If the marker or any model in the unit would land in a location that would resul
 ## **Fearless**
 
 All Fearless non-vehicle units use the rules for And They Shall Know No Fear instead. If another rule would normally affect a fearless unit, that rule still applies to that unit.
-
-Monstrous Creatures that lose 25% of their wounds in a single turn must take a Morale test as if it took 25% casualties. If a Monstrous Creature would fail a pinning test, it falls back instead.
 
 ## **Flyers**
 
@@ -102,20 +100,30 @@ Move the pursuing unit its own Fall Back distance toward the fleeing unit. If th
 
 ## **Tank Riders**
 
-Riding a tank beats walking. A Tank that does not already have a transport capacity may carry up to 4 Infantry models per hull point as Tank Riders (as if it were a transport.)
+Riding a tank beats walking. A Tank that does not already have a
+transport capacity may carry up to 2 Infantry models per hull point as
+Tank Riders (as if it were a transport.)
 
-Infantry units with a 4+ save or lighter may be deployed as Tank Riders. A tank and its riders count as a single unit for purposes of deployment and reserves, as if it were a transport. They are treated exactly as transport passengers, but are far more exposed.
+Infantry units with a 4+ save or lighter may be deployed as Tank Riders.
+A tank and its riders count as a single unit for purposes of deployment
+and reserves, as if it were a transport. They are treated exactly as
+transport passengers, but are far more exposed.
 
-Tank Riders may be targeted separately from the vehicle, may be Pinned separately, and count as having 5+ cover. If the unit would Go to ground, they immediately disembark.
+Tank Riders may be targeted separately from the vehicle, may be Pinned
+separately, and count as having 5+ cover. If the unit would Go to
+ground, they immediately disembark.
 
-If the transporting tank is hit by fire that could remove a hull point, the riding unit is immediately disembarked and treated as if they had failed a pinning test. If the vehicle is destroyed while they are embarked, d3 models are removed with no saves of any kind allowed.
+If the transporting tank is hit by fire that could remove a hull point,
+the riding unit is immediately disembarked and treated as if they had
+failed a pinning test. If the vehicle is destroyed while they are
+embarked, d3 models are removed with no saves of any kind allowed.
 
 ## **Templates**
 
 Templates use the following rolls to hit, noted as (number of dice) / (to-hit):  
 	  
 	Small Blast	3 / 4+  
-	Large Blast	6 / 4+  
+	Large Blast	5 / 4+  
 	Flame		6 / 4+ (6” Range)
 
 Template weapons of any kind may not inflict more hits than there are models in a unit. Discard excess hits.
@@ -135,6 +143,18 @@ Infantry may declare a disordered charge out of a transport that does not have t
 ## **Vehicle Squadrons**
 
 Vehicles may be taken as a squadron as part of Force Organization, and are treated as completely separate units otherwise.
+
+### **Vehicles and Terrain**
+If a vehicle would intersect any difficult terrain during its path, it is counted as Slow until
+the end of the turn. (Do not roll for immobilized)
+
+Vehicles equipped with Dozer Blades may ignore difficult terrain.
+
+A Vehicle equipped with a Dozer Blade that moves at Combat Speed may shift any piece of 
+Battlefield Debris up to 1" or remove it entirely.
+
+## **Battlefield Debris**
+Battlefield Debris may be treated as destructible terrain with AV14 and 1HP.
 
 ## **Wound Allocation**
 
