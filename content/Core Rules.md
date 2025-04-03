@@ -122,7 +122,6 @@ embarked, d3 models are removed with no saves of any kind allowed.
 
 Templates use the following rolls to hit, noted as (number of dice) / (to-hit):  
 
-
 | Small Blast | 3 / 4+ |
 | ----------- | ------ |
 | Large Blast | 5 / 4+ |
@@ -155,7 +154,7 @@ A Vehicle equipped with a Dozer Blade that moves at Combat Speed may shift any p
 ## Battlefield Debris
 Battlefield Debris may be treated as destructible terrain with AV14 and 1HP.
 
-## Wound Allocation*
+## Wound Allocation
 
 The player targeted by an attack or ability that could cause wounds may choose which model to allocate wounds of any type, unless specified by another rule. For units with mixed saves, this must be declared before rolling saves of any kind. Wounds must be allocated to models already wounded.
 
