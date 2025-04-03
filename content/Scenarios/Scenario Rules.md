@@ -32,3 +32,6 @@ When an objective is captured, VPs are awarded immediately. If a point that was 
 ## Turn 0
 
 Some scenarios include a Turn 0, where reconnaissance units may operate before events that would normally occur during the first turn of the game.
+
+## Incremental Reserves
+Starting the first turn of reserves as defined by scenario, a single unit comes in. An additional unit  for each subsequent turn arrives. One unit, then two, then three, etc.
