@@ -43,7 +43,7 @@ The Attacker’s probing force units are placed within 12" of the attacker’s t
 Any Initial Defenders that were not deployed previously may be set up anywhere on the Defender's half of the map. These may not be units from the Defender's reinforcements.
 
 ### 8\. Resolve Bombardment  
-Each of the Defender’s non-vehicle units in the Front Line Zone must take a Pinning test. Vehicles must pass a leadership test, or count as Crew Stunned at the start of the game.
+Each of the Defender’s non-vehicle units must take a Pinning test. Vehicles must pass a leadership test, or count as Crew Stunned at the start of the game.
 
 ### 9\. First Turn  
 The Attacker takes the first turn.
