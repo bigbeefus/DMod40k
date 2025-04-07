@@ -53,7 +53,6 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
     * Combi-melta (**10** pts)
     * Combi-plasma (**10** pts)
     * Havoc launcher (**15** pts)
-    * Twin-linked bolter (**5** pts)
 * May take Armatus Necrotechnica (**50** pts)
 
 ### Heavy Support
@@ -111,8 +110,12 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 |**Ranged Weapons**|Range|S|AP|Type|
 |:--|:--:|:--:|:--:|:--|
+|Anvilus snub autocannon|24"|8|4|Heavy 2, Twin-linked, Sunder|
 |Cyclonic melta lance|18"|9|1|Heavy 3, Melta|
 |Leviathan storm cannon|24"|7|3|Heavy 6, Sunder|
+|Neutron blaster|24"|9|2|Heavy 1, Concussive, Shock Pulse|
+|Volkite culverin|45"|6|5|Heavy 4, Deflagrate|
+|Volkite saker|24"|6|5|Heavy 6, Deflagrate|
 
 |**Melee Weapons**|Range|S|AP|Type|
 |:--|:--:|:--:|:--:|:--|
