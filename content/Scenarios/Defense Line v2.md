@@ -34,7 +34,7 @@ From turn 3 onwards one unit, plus one for each subsequent turn will arrive each
 The defender places three objectives in the Front Line Zone, and one anywhere else on the table, with the usual restrictions.
 
 ### 5\. Deploy Initial Defenders 
-The Defender places any number of units in the center Front Line Zone along with any Fortifications. Any units may start with a reaction order if they could receive one.
+The Defender places any number of their initial units in the center Front Line Zone along with any Fortifications. Any units may start with a reaction order if they could receive one.
 
 ### 6\. Deploy Attacker’s Probing Force  
 The Attacker’s probing force units are placed within 12" of the attacker’s table edge. 
@@ -43,7 +43,7 @@ The Attacker’s probing force units are placed within 12" of the attacker’s t
 Any Initial Defenders that were not deployed previously may be set up anywhere on the Defender's half of the map. These may not be units from the Defender's reinforcements.
 
 ### 8\. Resolve Bombardment  
-Each of the Defender’s non-vehicle units must take a Pinning test. Vehicles must pass a leadership test, or count as Crew Stunned at the start of the game.
+Each of the Defender’s non-vehicle units must take a Pinning test. Vehicles must pass a leadership test at Ld 10, or count as Crew Stunned at the start of the game.
 
 ### 9\. First Turn  
 The Attacker takes the first turn.
