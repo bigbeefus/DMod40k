@@ -8,6 +8,38 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 ### HQ
 
+### Grim Surgeon
+
+||WS|BS|S|T|W|I|A|Ld|Sv|Unit Type|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
+|Grim Surgeon|5|5|4|4|2|5|3|9|3+|Infantry (Character)|
+
+**Base Points**: **95** pts
+
+**Unit Composition**:
+* 1 Grim Surgeon
+
+**Wargear**:
+* Power armour
+* Bolt pistol
+* Close combat weapon
+* Frag grenade
+* Krak grenade
+* Narthecium
+
+**Special Rules**:
+* Champion of Chaos
+* Feel No Pain
+* Independent Character
+* Master of Mutations
+
+**Options**:
+* May take items from the **Melee Weapons**, **Ranged Weapons**, **Chaos Rewards**, **Special Issue Wargear**, and/or **Chaos Artefacts** section of the wargear list.
+* Alternatively, the Grim Surgeon may replace all of his wargear (excluding the Narthecium) with Tearminator armour, a power weapon, and a combi-bolter (**40** pts)
+    * A Grim Surgeon in Terminator armour may then take items from the **Terminator Weapons**, **Chaos Rewards**, **Special Issue Wargear**, and/or **Chaos Artefacts** section of the wargear list.
+* May take the Veterans of the Long War special rule (**5** pts)
+* May take a single **Mark of Chaos** from the wargear list.
+
 #### Warpsmith
 
 **Wargear**:
@@ -17,11 +49,14 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 #### Chaos Sabre Strike Tank Squadron
 
-|BS|F|S|R|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--|
-|4|12|11|10|3|Vehicle (Tank), Fast|
+||BS|F|S|R|HP|Unit Type|
+|--|:--:|:--:|:--:|:--:|:--:|:--|
+|Chaos Sabre Strike Tank|4|12|11|10|3|Vehicle (Tank), Fast|
 
 **Base Cost**: **65** pts
+
+**Unit Composition**
+* 1-2 Chaos Sabre Strike Tanks
 
 **Wargear**:
 * Anvilus snub autocannon
@@ -59,11 +94,14 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 #### Chaos Infernal Relic Leviathan Dreadnought
 
-|WS|BS|S|F|S|R|I|A|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
-|5|5|8|13|13|12|4|4|4|Vehicle (Walker)|
+||WS|BS|S|F|S|R|I|A|HP|Unit Type|
+|--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
+|Chaos Leviathan Dreadnought|5|5|8|13|13|12|4|4|4|Vehicle (Walker)|
 
 **Base Cost**: **285** pts
+
+**Unit Composition**
+* 1 Chaos Infernal Relic Leviathan Dreadnought
 
 **Wargear**:
 * Two Leviathan seige claws w/ meltaguns
@@ -106,6 +144,8 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 **Helstalker**: The model gains +1 Toughness, +1 Wounds and +1 Attacks. Becomes Cavalry. 
 
+**Narthecium**: While any model carrying this specialised medical and alchemical gear in a unit is in play, all models in that unit gain the Feel No Pain special rule.
+
 ## Weapons
 
 |**Ranged Weapons**|Range|S|AP|Type|
@@ -125,6 +165,8 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 ## Special Rules
 
 **Crushing Charge**: When charging, the model inflicts 2 Hammer of Wrath attacks and gains +1 Initiative in the Assault phase of any turn in which it has charged.
+
+**Master of Mutations**: When a model with this rule joins a unit, roll on the Chaos Boon table, ignoring Spawdhood and Dark Apotheosis. All models in that unit gain the result for the rest of the game. This can only be applied once to a unit. The result is applied in addition to any other Boons aquired by Characters with the Champion of Chaos special rule.
 
 **Reinforced Atomantic Shielding**: A Leviathan Dreadnought has a 4+ invulnerable save. In addition, if the Leviathan suffers a Vehicle Explodes damage result, add +D3 Str and +D3" to the radius of the blast.
 
