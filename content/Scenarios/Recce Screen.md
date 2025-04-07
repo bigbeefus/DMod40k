@@ -30,4 +30,6 @@ If one side has deployed no units, then the opponent may position their units an
 Both players roll a D6 adding the number of units deployed in step 3\. The side with the highest total takes the first turn. On a tie, the side that deployed the most Recon units wins.
 
 ### 5\. Main Force Arrival  
-From turn 1 onwards, players bring in units from reserves equal to the turn number. Units entering the board may be placed fully within 6” of the player’s table edge (24" each direction from the table corner). Continue this until all the forces are on the tabletop.
+From turn 1 onwards, players may bring in units from reserves incrementally (equal to the turn number.)
+
+Units entering the board may be placed fully within 6” of or touching the player’s table edge, running half of the table length in either direction. Continue until all the forces are on the tabletop.
