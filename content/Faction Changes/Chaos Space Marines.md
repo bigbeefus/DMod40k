@@ -25,7 +25,7 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 * Close combat weapon
 * Frag grenade
 * Krak grenade
-* Narthecium
+* Chirurgeon
 
 **Special Rules**:
 * Champion of Chaos
@@ -35,7 +35,7 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 **Options**:
 * May take items from the **Melee Weapons**, **Ranged Weapons**, **Chaos Rewards**, **Special Issue Wargear**, and/or **Chaos Artefacts** section of the wargear list.
-* Alternatively, the Grim Surgeon may replace all of his wargear (excluding the Narthecium) with Tearminator armour, a power weapon, and a combi-bolter (**40** pts)
+* Alternatively, the Grim Surgeon may replace all of his wargear (excluding the Chirurgeon) with Tearminator armour, a power weapon, and a combi-bolter (**40** pts)
     * A Grim Surgeon in Terminator armour may then take items from the **Terminator Weapons**, **Chaos Rewards**, **Special Issue Wargear**, and/or **Chaos Artefacts** section of the wargear list.
 * May take the Veterans of the Long War special rule (**5** pts)
 * May take a single **Mark of Chaos** from the wargear list.
@@ -140,11 +140,11 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 **Auxiliary Drive**: A vehicle with an auxiliary drive may Repair Immobilised results it suffers on a D6 roll of 4+ at the start of the controlling player's Movement phase.
 
+**Chirurgeon**: While any model carrying this specialised medical and alchemical gear in a unit is in play, all models in that unit gain the Feel No Pain special rule.
+
 **Ceramite Plating**: Melta weapons do not roll an extra D6 armour penetration when shooting a vehicle equipped with ceramite plating at half range or less.
 
 **Helstalker**: The model gains +1 Toughness, +1 Wounds and +1 Attacks. Becomes Cavalry. 
-
-**Narthecium**: While any model carrying this specialised medical and alchemical gear in a unit is in play, all models in that unit gain the Feel No Pain special rule.
 
 ## Weapons
 
