@@ -4,3 +4,5 @@ Autocannons firing normally gain Shred
 **Power Sword**: Rending
 
 **Lightning Claws**: Rending
+
+**Skyfire**: May fire full BS at any target.
