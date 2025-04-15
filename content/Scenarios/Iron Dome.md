@@ -57,13 +57,13 @@ The Defender may select up to half of their points' worth units, plus any Fortif
 **Defender’s Reinforcements**  
 From turn 2 onwards one unit, plus one for each subsequent turn will arrive each turn from the Defender's table edge, until all units are on the tabletop.
 
-### 5\. Deploy Initial Defenders 
+### 4\. Deploy Initial Defenders 
 The Defender places any number of their Initial Defenders in the center Front Line Zone along with any Fortifications. Any units that could receive one may start on a Reaction order.
 
-### 6\. Deploy Attacker’s Escort Force  
+### 5\. Deploy Attacker’s Escort Force  
 The Attacker’s probing force units are placed within 12" of the attacker’s table edge. 
 
-### 7\. Deploy Remaining Defenders 
+### 6\. Deploy Remaining Defenders 
 Any Initial Defenders that were not deployed previously may be set up anywhere on the  half of the Defender's deployment zone closest to that player's table edge. These may not be units from the Defender's reinforcements, and they do not start on .
-### 8\. First Turn  
+### 7\. First Turn  
 The Attacker takes the first turn.
