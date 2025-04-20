@@ -1,5 +1,5 @@
 ![[DefenseLine.png]]
-Scenario Type: Attack/Defense
+**Scenario Type**: Attack/Defense
 ## SITUATION REPORT  
 The enemy have already been under heavy artillery fire, and are already weakened. Spearhead an assault to break through the lines.
 
