@@ -134,6 +134,16 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
     * Dedication of Tzeentch (**20** pts)
     * Dedication of Slaanesh (**20** pts)
 
+### Lords of War
+
+#### Chaos Relic Mastadon Heavy Assault Carrier
+
+||BS|F|S|R|HP|Unit Type|
+|--|:--:|:--:|:--:|:--:|:--:|:--|
+|Chaos Sabre Strike Tank|4|14|14|14|10|Super-heavy Vehicle, Transport|
+
+**Base Cost**: **700** pts
+
 ## Wargear
 
 **Armatus Necrotechnica**: One vehicle with the Tank type in an army may be upgraded to use the Armatus Necotechnica for 50pts. Whenever a unit (friendly or enemy) within 6" of a vehicle with this upgrade loses a model as a casualty, roll a D6. On a 6, the vehicle regains 1 Hull Point. This may not bring it above the number of Hull Points listed on its army list entry. In addition, any unit (friendly or enemy) within 6" of an Armatus Necrotechnica must reduce its Leadership value by -1. Units with the Stubborn special rule may not ignore this modifier.
