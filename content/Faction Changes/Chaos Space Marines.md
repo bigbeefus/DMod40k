@@ -136,13 +136,41 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 ### Lords of War
 
-#### Chaos Relic Mastadon Heavy Assault Carrier
+#### Chaos Relic Mastodon Heavy Assault Carrier
 
 ||BS|F|S|R|HP|Unit Type|
 |--|:--:|:--:|:--:|:--:|:--:|:--|
-|Chaos Sabre Strike Tank|4|14|14|14|10|Super-heavy Vehicle, Transport|
+|Chaos Mastodon|4|14|14|14|10|Vehicle (Super-heavy)|
 
 **Base Cost**: **700** pts
+
+**Unit Composition**
+* 1 Chaos Relic Mastodon Heavy Assault Carrier
+
+**Wargear**:
+* One fixed forward siege melta array
+* Two sponson-mounted heavy flamers
+* Two sponson-mounted lascannon
+* One turret-mounted Skyreaper battery
+* Smoke launchers
+* Searchlight
+* Armoured Ceramite
+
+**Special Rules**:
+* Assault Vehicle
+* Enhanced Defensive Fire
+* Reinforced Shell
+* Void Shields (2)
+* Infernal Relic
+
+**Transport**:
+The Mastodon can carry 40 models. It may also carry up to two Dreadnoughts of the following types in any combination: **Chaos Contemptor Dreadnought**, **Emperor's Children Sonic Dreadnought**, **Ferrum Infernus Chaos Dreadnought**, and **Helbrute**. Each Dreadnought counts as ten models respectively.
+
+**Options**:
+* The Mastodon may mount up to:
+  * Two Havoc launchers (**12** pts/ea)
+* The Mastodon may exchange its Skyreaper battery for a:
+  * Command vox relay (**25** pts)
 
 ## Wargear
 
@@ -154,7 +182,9 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 **Ceramite Plating**: Melta weapons do not roll an extra D6 armour penetration when shooting a vehicle equipped with ceramite plating at half range or less.
 
-**Helstalker**: The model gains +1 Toughness, +1 Wounds and +1 Attacks. Becomes Cavalry. 
+**Command Vox Relay**: This allows the Mastodon’s controlling player to add +1 to or subtract -1 from the results of any Reserves rolls they make while the Mastodon is in play. In addition, should enemy models suffer a Deep Strike Mishap when the Mastodon is in play, the roll suffers a -1 modifier.
+
+**Helstalker**: The model gains +1 Toughness, +1 Wounds and +1 Attacks. Becomes Cavalry.
 
 ## Weapons
 
@@ -164,6 +194,8 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 |Cyclonic melta lance|18"|9|1|Heavy 3, Melta|
 |Leviathan storm cannon|24"|7|3|Heavy 6, Sunder|
 |Neutron blaster|24"|9|2|Heavy 1, Concussive, Shock Pulse|
+|Siege melta array|12"|9|1|Heavy 4, Blast (3"), Melta, Stone Burner|
+|Skyreaper battery|48"|7|4|Heavy 5, Skyfire, Twin-linked, Interceptor|
 |Volkite culverin|45"|6|5|Heavy 4, Deflagrate|
 |Volkite saker|24"|6|5|Heavy 6, Deflagrate|
 
@@ -176,12 +208,20 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 
 **Crushing Charge**: When charging, the model inflicts 2 Hammer of Wrath attacks and gains +1 Initiative in the Assault phase of any turn in which it has charged.
 
+**Enhanced Defensive Fire**: So long as at least one unit occupies the Mastodon, the Mastodon may use Overwatch fire with its sponson-mounted weapons when assaulted. When this is the case, each sponson may be fired once per Assault phase at an assaulting unit within the particular weapon’s arc of fire. In the case of the Mastodon’s lascannon, this Overwatch fire is carried out at BS 2, and in the case of the Mastodon’s heavy flamers, D3+1 automatic hits are inflicted per heavy flamer on the assaulting unit that is fired upon.
+
 **Master of Mutations**: When a model with this rule joins a unit, roll on the Chaos Boon table, ignoring Spawdhood and Dark Apotheosis. All models in that unit gain the result for the rest of the game. This can only be applied once to a unit. The result is applied in addition to any other Boons aquired by Characters with the Champion of Chaos special rule.
 
 **Reinforced Atomantic Shielding**: A Leviathan Dreadnought has a 4+ invulnerable save. In addition, if the Leviathan suffers a Vehicle Explodes damage result, add +D3 Str and +D3" to the radius of the blast.
 
-**Severing Cut**: Each time a non-vehicle model suffers a wound from this weapon, roll a D6. On a 4+, the model suffers an additional D3 wounds which must be saved separately using the weapon's profile (note that these wounds do not themselves 
+**Reinforced Shell**: The Mastodon is designed to withstand withering punishment and endure, and is fitted with a reinforced inner armour shell as well as considerable special defensive measures around its reactor core and munitions stores. As a result, if it is Destroyed, reduce the roll made on the Catastrophic Damage table by -2. If the result rolled is actually ‘0’ or ‘-1’ after this modifier is taken into account, the Mastodon does not Explode, but it instead becomes a broken shell (note that it still counts as being destroyed for the purpose of Victory points or any relevant mission objectives however). Any models transported inside suffer an immediate Strength 4 hit – Vehicles are struck on their weakest Armour value. From this point onwards, its shell is treated as a ruined building rather than a vehicle wreck, with its two doorways counted as being open access points to the interior.
 
-**Sunder**: Attacks with this special rule may re-roll failed Armour Penetration rolls.generate more additional wounds)
+**Severing Cut**: Each time a non-vehicle model suffers a wound from this weapon, roll a D6. On a 4+, the model suffers an additional D3 wounds which must be saved separately using the weapon's profile (note that these wounds do not themselves generate more additional wounds)
+
+**Sunder**: Attacks with this special rule may re-roll failed Armour Penetration rolls.
+
+**Stone Burner**: When striking against buildings and fortifications, each penetrating hit inflicted becomes D3 penetrating hits.
+
+**Void Shields (2)**: While the model’s void shields are active, any hits scored by shooting attacks against it strike its void shields instead. The Mastodon has two void shields, each with an Armour value of 12. A glancing hit or penetrating hit or any hit by a Destroyer weapon scored against a shield causes it to collapse. After this, further hits strike the original target instead. At the end of each of its controlling player’s turns, roll a D6 for each collapsed shield – a roll of 5+ instantly restores it.
 
 **Wrecker**: Weapons and attacks with this special rule may re-roll failed Armour Penetration rolls against fortifications and immobile structures (such as bunkers and barricades), and add +1 to any result rolled on the Building Damage chart. If this attack damages a bulkhead or wall section of terrain and destroys it, remove that section of terrain from play if possible.
