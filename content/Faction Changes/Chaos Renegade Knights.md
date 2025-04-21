@@ -4,23 +4,29 @@
 
 #### Renegade Knight
 
-|WS|BS|S|F|S|R|I|A|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
-|4|4|10|13|12|12|4|3|6|Vehicle (Super-Heavy Walker)|
+|WS|BS|S|F|S|R|I|A|HP|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|4|4|10|13|12|12|4|3|6|
 
 **Base Cost**: **325** pts
 
-**Wargear**:
+**Unit Composition**
+* 1 Renegade Knight
+
+**Unit Type**
+* Vehicle (Super-heavy Walker)
+
+**Wargear**
 * Heavy stubber
 * Ion shield
 * Reaper chainsword
 * Thunderstrike gauntlet
 
-**Special Rules**:
+**Special Rules**
 * Colossal
 * Hurl
 
-**Options**:
+**Options**
 * May take a dirge caster (**5** pts)
 * May take a Balemace tail (**20** pts)
 * May select one of the following options:
@@ -52,25 +58,37 @@
 
 #### Renegade Knight Acastus (WIP)
 
-|WS|BS|S|F|S|R|I|A|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
-|4|5|10|13|12|11|3|3|8|Vehicle (Super-Heavy Walker)|
+|WS|BS|S|F|S|R|I|A|HP|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|4|5|10|13|12|11|3|3|8|
 
 **Base Cost**: **540** pts
 
-**Wargear**:
+**Unit Composition**
+* 1 Renegade Knight Acastus
+
+**Unit Type**
+* Vehicle (Super-heavy Walker)
+
+**Wargear**
 * Ion shield
 
-**Options**:
+**Options**
 * May take a dirge caster (**5** pts)
 
 #### Renegade Knight Armiger Squadron (WIP)
 
-|WS|BS|S|F|S|R|I|A|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
-|4|4|7|12|12|11|4|2|4|Vehicle (Walker)|
+|WS|BS|S|F|S|R|I|A|HP|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|4|4|7|12|12|11|4|2|4|
 
 **Base Cost**: **175** pts
+
+**Unit Composition**
+* 1-3 Renegade Knight Armigers
+
+**Unit Type**
+* Vehicle (Walker)
 
 **Wargear**:
 * Ion buckler
@@ -81,30 +99,42 @@
 
 #### Renegade Knight Cerastus (WIP)
 
-|WS|BS|S|F|S|R|I|A|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
-|4|4|10|13|12|12|4|4|6|Vehicle (Super-Heavy Walker)|
+|WS|BS|S|F|S|R|I|A|HP|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|4|4|10|13|12|12|4|4|6|
 
 **Base Cost**: **380** pts
 
-**Wargear**:
+**Unit Composition**
+* 1 Renegade Knight Cerastus
+
+**Unit Type**
+* Vehicle (Super-heavy Walker)
+
+**Wargear**
 * Ion shield
 
-**Options**:
+**Options**
 * May take a dirge caster (**5** pts)
 
 #### Renegade Knight Dominus (WIP)
 
-|WS|BS|S|F|S|R|I|A|HP|Unit Type|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--|
-|4|4|10|13|13|12|3|3|7|Vehicle (Super-Heavy Walker)|
+|WS|BS|S|F|S|R|I|A|HP|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|4|4|10|13|13|12|3|3|7|
 
 **Base Cost**: **420** pts
 
-**Wargear**:
+**Unit Composition**
+* 1 Renegade Knight Dominus
+
+**Unit Type**
+* Vehicle (Super-heavy Walker)
+
+**Wargear**
 * Ion shield
 
-**Options**:
+**Options**
 * May take a dirge caster (**5** pts)
 
 ## Wargear
