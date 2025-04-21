@@ -256,7 +256,7 @@ Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and
 The Mastodon can carry 40 models. It may also carry up to two Dreadnoughts of the following types in any combination: **Chaos Contemptor Dreadnought**, **Emperor's Children Sonic Dreadnought**, **Ferrum Infernus Chaos Dreadnought**, and **Helbrute**. Each Dreadnought counts as ten models respectively.
 
 **Access Points**
-* The Mastadon has two access points, one at the front and one at the rear.
+* The Mastodon has two access points, one at the front and one at the rear.
 
 **Options**
 * The Mastodon may mount up to:
