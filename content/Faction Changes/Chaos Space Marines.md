@@ -2,7 +2,7 @@
 
 **Slippery Wizard Move (of Tzeentch)**\
 **Warp Change**: 1\
-Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Pysker and its unit. Instead of moving as normal, place a marker within 12” of the unit. Roll a scatter dice and 1D6 to and move the token to that location. Finally, relocate the Psyker and its unit to that token. The unit counts as having moved and cannot charge. Only available for Rubric Aspiring Sorcerers.
+Slippery Wizard Move (of Tzeentch) is a **blessing** that targets the Psyker. Unless the target is Zooming or Swooping, remove the target and his unit from the board. It then immediately arrives on the board within 18" of it's original position. Use the rules for Deep Strike, except roll 1D6 for scatter instead of 2D6. The unit counts as having moved and cannot charge. Only available for Rubric Aspiring Sorcerers as a replacement for the Primaris power.
 
 ## Unit Changes
 
