@@ -7,6 +7,7 @@ Blast Markers and Templates use dice rolls to hit, noted as (number of dice) / (
 | (Small) Blast | 3 / 4+ |
 | Large Blast   | 5 / 4+ |
 | Flame         | 6 / 3+ |
+
 Blast Markers and Template weapons of any kind may not inflict more hits than there are models in a unit. Excess hits must be discarded, or allocated to another nearby unit.
 
 If a target unit has double the number of models or more compared to a weapon’s dice pool to hit, template weapons gain an additional \+1 to hit.
