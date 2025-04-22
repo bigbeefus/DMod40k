@@ -1,5 +1,5 @@
-These rules can change the course of a game significantly.  
-Any of the following rules may be used if both players agree.
+These rules may impact the course of a game significantly.  
+Any of the following rules are recommended to be used only if both players agree.
 
 ## Battlefield Debris
 
