@@ -39,7 +39,7 @@ After winning combat, units automatically attempt a Sweeping Advance if eligible
 
 ## Restrain or Pursue
 
-The winning player may attempt to restrain the unit by passing a morale test. If the attempt is failed or the unit does not attempt to restrain, make the initiative test for Sweeping Advance as normal.
+The winning player may attempt to restrain the unit by passing a Leadership test. If the attempt is failed or the unit does not attempt to restrain, make the initiative test for Sweeping Advance as normal.
 
 ## CAUGHT\!
 
