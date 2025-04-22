@@ -26,8 +26,8 @@ Recon units may be declared held in reserves instead of deploying.
 
 If one side has deployed no units, then the opponent may position their units anywhere on the table on Ambush Fire. 
 
-### 4\. Turn 0  
-Both players roll a D6 adding the number of units deployed in step 3\. The side with the highest total takes the first turn. On a tie, the side that deployed the most Recon units wins.
+### 4\. [[Scenario Rules#Recon Turn|Recon Turn]]
+Both players roll a D6, adding the number of units deployed in step 3\. The side with the highest total takes the first turn. On a tie, the side that deployed the most Recon units wins the roll-off.
 
 ### 5\. Main Force Arrival  
 From turn 1 onwards, players may bring in units from reserves incrementally (equal to the turn number.)
