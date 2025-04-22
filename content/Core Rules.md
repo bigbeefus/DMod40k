@@ -28,7 +28,7 @@ If an ability would allow a unit to re-roll a failed Morale or Pinning test, tha
 
 # Point Blank
 
-Shooting attacks made within 6” of their target and on the same level of ruins (or top level for flyers) gain Ignores Cover, unless that unit declared Go to Ground or Jink against this attack. (Units that are Gone to Ground or Jinking as the result of another attack do not gain the benefit of cover)
+Shooting attacks made within 6” of their target and on the same level of ruins (or top level if the attacker is a Flyer) gain Ignores Cover.
 
 # Psychic Manifestation
 
