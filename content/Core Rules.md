@@ -1,34 +1,8 @@
-# Core Rules
-
-## Barrage
-
-Barrage weapons fire as a Blast weapon with a -2 modifier to-hit. Barrage weapons that fire indirectly gain Pinning, and may be treated as having infinite range, but must be able to draw line of sight from another friendly unit on the table.  
-
-Artillery units with a Barrage weapon may elect to be deployed off-map, outside of the play area. Units deployed this way may only fire using a Request Support order, and may not draw Line of Sight to any unit on the table.
-## Deep Strike
-
-If a unit would enter from Reserves using Deep Strike, place a Deep Strike marker. This marker scatters following the rules for the unit itself. 
-
-If the marker or unit would land in a location that would result in a Mishap, roll on the table as normal. The Marker is not a unit, but follows all rules for unit placement as if it were.
-
-At the beginning of the player’s following turn, replace the marker with the first model in the unit as normal. The unit may receive orders as if it had been on the board for a full turn, but may not charge if it performed a move action. The unit counts as having moved for the purposes of any abilities.
-
-### Mishap
-
-If the marker or any model in the unit would land in a location that would result in a mishap, the opposing player may select one of the following options:
-
-- Delayed: The unit re-enters reserves until the start of the next game turn  
-- Misplaced: The opposing player may choose a valid placement for the unit within 18” of the center of the Deep Strike marker.
-
-## Fearless
-
-All Fearless non-vehicle units use the rules for And They Shall Know No Fear instead. If another rule would normally affect a Fearless unit, that rule still applies to that unit.
-
-## Flyers
+# Flyers
 
 Flyers brought in from Reserves may only be used in Hover mode. A Flyer may automatically leave the board at any time with a Top Speed order.
 
-### Aerial Support
+## Aerial Support
 Flyers and Flying Monstrous Creatures kept in Reserves may be called in to perform strafing runs with a Request Support order. Flyers entering the board this way enter Zooming (or Swooping), and are subject to the following rules:
 
 Zooming Flyers enter the controlling player’s board edge, and immediately perform a Maneuver and Fire order. The Flyer may move up to any point wholly within the controlling player’s half of the board at Combat Speed, or anywhere on the opponent’s half at Cruising Speed. All other rules for Zooming Flyers apply.
@@ -37,45 +11,45 @@ Units that could disembark from a Zooming Flyer ignore any replacement effects f
 
 At the beginning of the controlling player's next turn, the Flyer automatically enters Ongoing Reserves.
 
-## Go To Ground
+# Go To Ground
 
 Units may go Go to Ground at any point during an attack. They gain \+2 to their cover save and a 4+ unmodifiable cover save in the open, but fight at WS 1 in melee while Gone to Ground.
 
 Units that have Gone to Ground may perform an Open Fire order to fire snap shots, but may perform no other actions.
 
-## Morale Re-rolls
+# Morale Re-rolls
 
 If an ability would allow a unit to re-roll a failed Morale or Pinning test, that ability may not be used again until the beginning of the next turn.
 
-## Point Blank
+# Point Blank
 
 Shooting attacks made within 6” of their target and on the same level of ruins (or top level for flyers) gain Ignores Cover, unless that unit declared Go to Ground or Jink against this attack. (Units that are Gone to Ground or Jinking as the result of another attack do not gain the benefit of cover)
 
-## Psychic Manifestation
+# Psychic Manifestation
 
 Psykers may attempt to cast a psychic power as if it were the psychic phase at any point during an order. This may be done instead of moving or shooting as part of another order. Spend warp charges or take tests as usual, if relevant.
 
-## Sweeping Advance
+# Sweeping Advance
 
 After winning combat, units automatically attempt a Sweeping Advance if eligible.
 
-### Restrain or Pursue
+## Restrain or Pursue
 
 The winning player may attempt to restrain the unit by passing a morale test. If the attempt is failed or the unit does not attempt to restrain, make the initiative test for Sweeping Advance as normal.
 
-### CAUGHT\!
+## CAUGHT\!
 
 If the chasing unit wins, the retreating unit suffers a number of wounds equal to double the model count of the chasing unit with no saves of any kind. Bulky and other rules that affect transport capacity may be counted toward a unit’s model count as it would for a transport.
 
-### Move Fleeing Unit
+## Move Fleeing Unit
 
 If the fleeing unit was not destroyed, it falls back.
 
-### Follow-up move
+## Follow-up move
 
 Move the pursuing unit its own Fall Back distance toward the fleeing unit. If the pursuing unit successfully caught its target, they may move within 1” of the fleeing unit and combat continues. Otherwise, move them up to, but not within 1”.
 
-## Tank Riders
+# Tank Riders
 
 Riding a tank beats walking. A Tank that does not already have a transport capacity may carry up to 10 infantry models as Tank Riders.
 
@@ -85,7 +59,7 @@ Tank Riders may be targeted separately from the vehicle, and count as having 5+ 
 
 If the transporting Tank is hit by fire that could remove a hull point, the riding unit is immediately disembarked and treated as if they had failed a pinning test. If the vehicle is destroyed while they are embarked, the unit suffers D3 wounds with no saves of any kind allowed.
 
-## Blast Markers and Templates
+# Blast Markers and Templates
 
 Blast Markers and Templates use dice rolls to hit, noted as (number of dice) / (to-hit):  
 
@@ -102,17 +76,17 @@ If the target unit did not move after the start of the previous turn, template w
 
 If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are in the same whole number of inches apart (e.g. between 3 and 4”), randomly allocate these hits to each unit.
 
-## Transports
+# Transports
 
 Infantry may declare a disordered charge out of a transport that does not have the Assault Vehicle special rule if that transport did not move this turn. A transport that had infantry disembark this way may not move for the rest of the turn.
 
 Multiple units may occupy a transport as long as the Transport Capacity is not exceeded. (Dedicated Transports are still subject to the usual deployment restrictions.)
 
-## Vehicle Squadrons
+# Vehicle Squadrons
 
 Vehicles may be taken as a squadron as part of Force Organization, and are treated as completely separate units otherwise.
 
-### Vehicles and Terrain
+# Vehicles and Terrain
 
 If a vehicle would intersect any difficult terrain during its path, it is counted as Slow until the end of the turn. (Do not roll for immobilized)
 
@@ -120,7 +94,7 @@ Vehicles equipped with Dozer Blades may ignore difficult terrain.
 
 A Vehicle equipped with a Dozer Blade that moves at Combat Speed may shift any piece of Battlefield Debris up to 1" or remove it entirely.
 
-## Wound Allocation
+# Wound Allocation
 
 The player targeted by an attack or ability that could cause wounds may choose which model to allocate wounds of any type, unless specified by another rule. For units with mixed saves, this must be declared before rolling saves of any kind. Wounds must be allocated to models already wounded.
 
