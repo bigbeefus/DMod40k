@@ -26,9 +26,16 @@ All Fearless non-vehicle units use the rules for And They Shall Know No Fear ins
 
 ## Flyers
 
-Any unit with the Flyer type may only be used in hover mode and treated as a Fast Skimmer, unless it (or any Fast Skimmer mutually agreed upon to have the ability to act as a Flyer) is taken as a Support Strike. 
+Flyers brought in from Reserves may only be used in Hover mode. A Flyer may automatically leave the board at any time with a Top Speed order.
 
-Flyers that could otherwise zoom may only be charged by units with Jump Packs, Jet Packs or other flyers. 
+### Aerial Support
+Flyers and Flying Monstrous Creatures kept in Reserves may be called in to perform strafing runs with a Request Support order. Flyers entering the board this way enter Zooming (or Swooping), and are subject to the following rules:
+
+Zooming Flyers enter the controlling player’s board edge, and immediately perform a Maneuver and Fire order. The Flyer may move up to any point wholly within the controlling player’s half of the board at Combat Speed, or anywhere on the opponent’s half at Cruising Speed. All other rules for Zooming Flyers apply.
+
+Units that could disembark from a Zooming Flyer ignore any replacement effects for Deep Strike markers and are deployed immediately, treating any Mishap results as Misplaced.
+
+At the beginning of the controlling player's next turn, the Flyer automatically enters Ongoing Reserves.
 
 ## Go To Ground
 

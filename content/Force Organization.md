@@ -25,6 +25,7 @@ For each Troops unit taken, you may include a single unit from Elites, Fast Atta
 At least one standard Troops unit must be taken per 1000 points.
 
 ### Specialist Troops
+
 Specialist Troops do not receive any bonuses or provide additional force organization slots as regular troops would, and do not fulfill any compulsory requirements for troops.
 
 Any minimum size Troops unit composed entirely of Infantry models may be taken as a Foot Patrol. That unit gains Scout and may only be selected as Specialist Troops.
@@ -60,7 +61,7 @@ The following units (and wargear) are Restricted, unless stated otherwise:
 
 Any Artillery or Flyer unit may be used in a support role for a fraction of its normal points value. These units are not deployed on the map normally, nor placed in reserves.
 
-A unit taken from Additional Fire Support may be called in to perform one of the following using a Request Support order.
+A unit taken from Additional Fire Support may be called in to perform one of the following using a Request Support order. 
 
 ### Long-Range Bombardment
 
@@ -68,13 +69,7 @@ Artillery units may be taken as a battery or squadron for 10% of their normal co
 
 ### Support Strafes
 
-Single-model Flyer units may be taken for 20% of their usual points cost. This does not count toward a player’s unit count for the purposes of counting objectives.
-
-Flyers with Transport Capacity may carry units embarked upon it declared before the start of the game. Units that disembark from a zooming Flyer ignore any replacement effects for Deep Strike markers and are deployed immediately, treating any Mishap results as Misplaced.
-
-Support Flyers enter the controlling player’s board edge, and immediately perform a Maneuver and Fire order. The Flyer may move up to any point wholly within the controlling player’s half of the board treated as having moved Combat Speed, or anywhere on the opponent’s half as Cruising Speed. All other rules for Zooming Flyers apply.
-
-During the end phase, remove the flyer from the board. Flyers that leave the board this way are not counted as a casualty, but may not return to the board. They are still counted as a casualty if they are destroyed by other causes.
+Single-model Flyer units may be taken for 20% of their usual points cost and may be called in using the rules for [[Core Rules#Flyers#Aerial Support|Zooming Flyers]]. Flyers taken this way are removed from the game instead of placed in reserves once they leave the battlefield. Flyers removed this way do not count as a destroyed unit.
 
 ### Pre-registered Target Point
-A player may purchase a Pre-registered Target Point for 15 points as an Additional Fire Support choice. An artillery battery may choose to fire on a unit within 6" of this point without requiring a Request Support order. 
+A player may purchase a Pre-registered Target Point for 15 points as an Additional Fire Support choice. An artillery battery may choose to fire on a unit within 6" of this point without requiring a Request Support order. This point must be determined after the table layout is determined, but before any units are deployed.
