@@ -1,15 +1,19 @@
-# Flyers
+# Blast Markers and Templates
 
-Flyers brought in from Reserves may only be used in Hover mode. A Flyer may automatically leave the board at any time with a Top Speed order.
+Blast Markers and Templates use dice rolls to hit, noted as (number of dice) / (to-hit):  
 
-## Aerial Support
-Flyers and Flying Monstrous Creatures kept in Reserves may be called in to perform strafing runs with a Request Support order. Flyers entering the board this way enter Zooming (or Swooping), and are subject to the following rules:
+| Template      | Dice   |
+| ------------- | ------ |
+| (Small) Blast | 3 / 4+ |
+| Large Blast   | 5 / 4+ |
+| Flame         | 6 / 3+ |
+Blast Markers and Template weapons of any kind may not inflict more hits than there are models in a unit. Excess hits must be discarded, or allocated to another nearby unit.
 
-Zooming Flyers enter the controlling player’s board edge, and immediately perform a Maneuver and Fire order. The Flyer may move up to any point wholly within the controlling player’s half of the board at Combat Speed, or anywhere on the opponent’s half at Cruising Speed. All other rules for Zooming Flyers apply.
+If a target unit has double the number of models or more compared to a weapon’s dice pool to hit, template weapons gain an additional \+1 to hit.
 
-Units that could disembark from a Zooming Flyer ignore any replacement effects for Deep Strike markers and are deployed immediately, treating any Mishap results as Misplaced.
+If the target unit did not move after the start of the previous turn, template weapons gain an additional \+1 to hit.
 
-At the beginning of the controlling player's next turn, the Flyer automatically enters Ongoing Reserves.
+If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are in the same whole number of inches apart (e.g. between 3 and 4”), randomly allocate these hits to each unit.
 
 # Go To Ground
 
@@ -48,6 +52,19 @@ If the fleeing unit was not destroyed, it falls back.
 ## Follow-up move
 
 Move the pursuing unit its own Fall Back distance toward the fleeing unit. If the pursuing unit successfully caught its target, they may move within 1” of the fleeing unit and combat continues. Otherwise, move them up to, but not within 1”.
+# Vehicles
+## Flyers
+
+Flyers brought in from Reserves may only be used in Hover mode. A Flyer may automatically leave the board at any time with a Top Speed order.
+### Aerial Support
+
+Flyers kept in Reserves may be called in to perform strafing runs with a Request Support order. Flyers entering the board this way enter Zooming, and are subject to the following rules:
+
+Zooming Flyers enter the controlling player’s board edge, and immediately perform a Maneuver and Fire order. The Flyer may move up to any point wholly within the controlling player’s half of the board at Combat Speed, or anywhere on the opponent’s half at Cruising Speed. All other rules for Zooming Flyers apply.
+
+Units that could disembark from a Zooming Flyer ignore any replacement effects for Deep Strike markers and are deployed immediately, treating any Mishap results as Misplaced.
+
+At the beginning of the controlling player's next turn, the Flyer automatically enters Ongoing Reserves.
 
 # Tank Riders
 
@@ -58,35 +75,17 @@ Infantry units with a 4+ save or lighter may be deployed as Tank Riders. A Tank 
 Tank Riders may be targeted separately from the vehicle, and count as having 5+ cover. If the unit would Go to Ground, they immediately disembark.
 
 If the transporting Tank is hit by fire that could remove a hull point, the riding unit is immediately disembarked and treated as if they had failed a pinning test. If the vehicle is destroyed while they are embarked, the unit suffers D3 wounds with no saves of any kind allowed.
-
-# Blast Markers and Templates
-
-Blast Markers and Templates use dice rolls to hit, noted as (number of dice) / (to-hit):  
-
-| Template      | Dice   |
-| ------------- | ------ |
-| (Small) Blast | 3 / 4+ |
-| Large Blast   | 5 / 4+ |
-| Flame         | 6 / 3+ |
-Blast Markers and Template weapons of any kind may not inflict more hits than there are models in a unit. Excess hits must be discarded, or allocated to another nearby unit.
-
-If a target unit has double the number of models or more compared to a weapon’s dice pool to hit, template weapons gain an additional \+1 to hit.
-
-If the target unit did not move after the start of the previous turn, template weapons gain an additional \+1 to hit.
-
-If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are in the same whole number of inches apart (e.g. between 3 and 4”), randomly allocate these hits to each unit.
-
 # Transports
 
 Infantry may declare a disordered charge out of a transport that does not have the Assault Vehicle special rule if that transport did not move this turn. A transport that had infantry disembark this way may not move for the rest of the turn.
 
 Multiple units may occupy a transport as long as the Transport Capacity is not exceeded. (Dedicated Transports are still subject to the usual deployment restrictions.)
 
-# Vehicle Squadrons
+## Squadrons
 
 Vehicles may be taken as a squadron as part of Force Organization, and are treated as completely separate units otherwise.
 
-# Vehicles and Terrain
+## Vehicles and Terrain
 
 If a vehicle would intersect any difficult terrain during its path, it is counted as Slow until the end of the turn. (Do not roll for immobilized)
 
