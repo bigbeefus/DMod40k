@@ -30,6 +30,8 @@ If an ability would allow a unit to re-roll a failed Morale or Pinning test, tha
 
 Shooting attacks made within 6” of their target and on the same level of ruins (or top level if the attacker is a Flyer) gain Ignores Cover.
 
+If the target is Artillery, the unit may target the crew instead of the gun.
+
 # Psychic Manifestation
 
 Psykers may attempt to cast a psychic power as if it were the psychic phase at any point during an order. This may be done instead of moving or shooting as part of another order. Spend warp charges or take tests as usual, if relevant.
