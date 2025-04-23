@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Dan's Mod",
+    pageTitle: "Dan's Mod v1.2",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
