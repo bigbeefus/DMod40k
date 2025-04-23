@@ -1,6 +1,6 @@
 # Blast Markers and Templates
 
-Blast Markers and Templates use dice rolls to hit, noted as (number of dice) / (to-hit):  
+Blast Markers and Templates target a model in a unit and use dice rolls to hit, noted as (number of dice) / (to-hit):  
 
 | Template      | Dice   |
 | ------------- | ------ |
@@ -14,7 +14,7 @@ If a target unit has double the number of models or more compared to a weapon’
 
 If the target unit did not move after the start of the previous turn, template weapons gain an additional \+1 to hit.
 
-If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are in the same whole number of inches apart (e.g. between 3 and 4”), randomly allocate these hits to each unit.
+If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are within an inch of distance or less apart (e.g. between 3" and 4” each), randomly allocate these hits to each unit.
 
 # Go To Ground
 

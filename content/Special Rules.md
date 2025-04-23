@@ -4,7 +4,7 @@ Barrage weapons fire as a Blast weapon with a -2 modifier to-hit. Barrage weapon
 
 Artillery units with a Barrage weapon may elect to be deployed off-map, outside of the play area. Units deployed this way may only fire using a Request Support order, and may not draw Line of Sight to any unit on the table.
 
-Cover Saves may only be taken from Barrage weapons that fired indirectly if that unit Goes to Ground.
+Cover Saves may only be taken from Barrage weapons that fired indirectly if that unit has Gone to Ground.
 # Deep Strike
 
 If a unit would enter from Reserves using Deep Strike, place a Deep Strike marker. This marker scatters following the rules for the unit itself. 
