@@ -67,7 +67,7 @@ Zooming Flyers enter the controlling player’s board edge, and immediately perf
 
 Units that could disembark from a Zooming Flyer ignore any replacement effects for Deep Strike markers and are deployed immediately, treating any Mishap results as Misplaced.
 
-At the beginning of the controlling player's next turn, the Flyer automatically enters Ongoing Reserves.
+At the beginning of the controlling player's next turn, the Flyer automatically enters Ongoing Reserves. It may not enter the battlefield until the following turn.
 
 # Tank Riders
 
