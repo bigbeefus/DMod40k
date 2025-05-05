@@ -28,7 +28,7 @@ At least one standard Troops unit must be taken per 1000 points.
 
 Specialist Troops do not receive any bonuses or provide additional force organization slots as regular troops would, and do not fulfill any compulsory requirements for troops.
 
-Any minimum size Troops unit composed entirely of Infantry models may be taken as a Foot Patrol. That unit gains Scout and may only be selected as Specialist Troops.
+Any Troops unit composed entirely of Infantry models may be taken as a Foot Patrol. That unit gains Scout and may only be selected as Specialist Troops.
 
 Heavy Support units composed entirely of Infantry models may be taken as Specialist Troops.
 
