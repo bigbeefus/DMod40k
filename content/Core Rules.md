@@ -1,6 +1,6 @@
 # Blast Markers and Templates
 
-Blast Markers and Templates target a model in a unit and use dice rolls to hit, noted as (number of dice) / (to-hit):  
+Target a model in a unit and use dice rolls to hit, noted as (number of dice) / (to-hit):  
 
 | Template      | Dice   |
 | ------------- | ------ |
@@ -8,19 +8,19 @@ Blast Markers and Templates target a model in a unit and use dice rolls to hit, 
 | Large Blast   | 5 / 4+ |
 | Flame         | 6 / 3+ |
 
-Blast Markers and Template weapons of any kind may not inflict more hits than there are models in a unit. Excess hits must be discarded, or allocated to another nearby unit.
-
 If a target unit has double the number of models or more compared to a weapon’s dice pool to hit, template weapons gain an additional \+1 to hit.
 
-If the target unit did not move after the start of the previous turn, template weapons gain an additional \+1 to hit.
+If the target unit did not move after the start of the previous turn, Blast and Template weapons gain an additional \+1 to hit.
 
-If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are within an inch of distance or less apart (e.g. between 3" and 4” each), randomly allocate these hits to each unit.
+If another unit is within 3” of a target being hit by a Blast or Template weapon, to-hit rolls of 1 hit that unit instead. If multiple units are within this distance, randomly allocate these hits to each unit.
+
+Blast Markers and Template weapons of any kind may not inflict more hits than there are models in a unit. Excess hits must be discarded, or allocated to another nearby unit. "Spill-over" allocations may not allocate more hits than are in the target unit, per Blast or Template shot.
 
 # Go To Ground
 
 Units may go Go to Ground at any point during an attack. They gain \+2 to their cover save and a 4+ unmodifiable cover save in the open, but fight at WS 1 in melee while Gone to Ground.
 
-Units that have Gone to Ground may perform an Open Fire order to fire snap shots, but may perform no other actions.
+Gone to Ground units may Open Fire to fire snap shots, but may perform no other actions and may receive no new orders.
 
 # Morale Re-rolls
 
